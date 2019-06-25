@@ -1,4 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [施工中](README.md)
+* [Guide](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/basic_training/initial_briefing.html)
+
+## Join Us
+
+* [QQ](https://jq.qq.com/?_wv=1027&k=5OBHcej)
+* [Telegram](https://t.me/IngressChengduChongqing)
 
