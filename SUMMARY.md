@@ -1,7 +1,7 @@
 # Table of contents
 
 * [施工中](README.md)
-* [Guide](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/basic_training/initial_briefing.html)
+* [新手教程](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/basic_training/initial_briefing.html)
 
 ## Join Us
 
