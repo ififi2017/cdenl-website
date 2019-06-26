@@ -8,3 +8,9 @@
 * [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=ARu1wv3EzCgR9Zax3UdRXA2z7AaXiQ-V&authKey=csKwYL8V1iw7nqqjdvkeBL74Ds0uW9myaXNqGJgbGA%2Btj01lmvISTQ%3D%3D)
 * [Telegram](https://t.me/IngressChengduChongqing)
 
+## URL
+
+* [Ingress](https://ingress.com/)
+* [Niantic](https://nianticlabs.com/)
+* [Intel map](https://intel.ingress.com/)
+
