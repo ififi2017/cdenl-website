@@ -13,8 +13,6 @@
 * [2018](war-report/2018/README.md)
   * [宜绿的艰难起八之旅](war-report/2018/2018-12-20.md)
 
-## 资料 <a id="data"></a>
-
 ## 加入我们 <a id="join-us"></a>
 
 * [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=ARu1wv3EzCgR9Zax3UdRXA2z7AaXiQ-V&authKey=csKwYL8V1iw7nqqjdvkeBL74Ds0uW9myaXNqGJgbGA%2Btj01lmvISTQ%3D%3D)
