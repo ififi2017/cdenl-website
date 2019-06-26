@@ -21,6 +21,7 @@
   * [你们这些黑牌菊苣哦](war-report/2017/ni-men-zhe-xie-hei-pai-ju-ju-e.md)
   * [20MU萌新黑牌记](war-report/2017/20mu-meng-xin-hei-pai-ji.md)
   * [麻麻叫我拿黑牌](war-report/2017/ma-ma-jiao-wo-na-hei-pai.md)
+* [2016](war-report/2016.md)
 
 ## 加入我们 <a id="join-us"></a>
 
