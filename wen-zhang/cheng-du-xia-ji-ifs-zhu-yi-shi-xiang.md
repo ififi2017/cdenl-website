@@ -1,5 +1,5 @@
 ---
-description: 转载自：狂野西部绿军 公众号  作者： TheaLote
+description: 转载自：狂野西部绿军 作者： TheaLote
 ---
 
 # 成都夏季IFS注意事项

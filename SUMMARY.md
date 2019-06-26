@@ -8,6 +8,10 @@
 
 ## 战报
 
+* [2019](zhan-bao/2019.md)
+* [2018](zhan-bao/2018/README.md)
+  * [宜绿的艰难起八之旅](zhan-bao/2018/yi-lv-de-jian-nan-qi-ba-zhi-lv.md)
+
 ## 资料
 
 ## 加入我们 <a id="join-us"></a>
