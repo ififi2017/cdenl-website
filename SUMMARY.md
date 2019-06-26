@@ -2,15 +2,15 @@
 
 * [首页](README.md)
 
-## 文章
+## 公告 <a id="announcement"></a>
 
-* [成都夏季IFS注意事项](wen-zhang/cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
+* [成都夏季IFS注意事项](announcement/cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
 
-## 战报
+## 战报 <a id="war-report"></a>
 
-* [2019](zhan-bao/2019.md)
-* [2018](zhan-bao/2018/README.md)
-  * [宜绿的艰难起八之旅](zhan-bao/2018/yi-lv-de-jian-nan-qi-ba-zhi-lv.md)
+* [2019](war-report/2019.md)
+* [2018](war-report/2018/README.md)
+  * [宜绿的艰难起八之旅](war-report/2018/2018-12-20.md)
 
 ## 资料
 
