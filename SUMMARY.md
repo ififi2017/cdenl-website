@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页](README.md)
+* [成都启蒙军](README.md)
 
 ## 公告 <a id="announcement"></a>
 
