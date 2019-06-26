@@ -12,6 +12,12 @@
 * [2019](war-report/2019.md)
 * [2018](war-report/2018/README.md)
   * [宜绿的艰难起八之旅](war-report/2018/2018-12-20.md)
+  * [乐山黑牌记](war-report/2018/le-shan-hei-pai-ji.md)
+  * [Dema\(xiya\)国庆咸鱼之路](war-report/2018/demaxiya-guo-qing-xian-yu-zhi-lu.md)
+* [2017](war-report/2017/README.md)
+  * [乐山针包绝对不咕咕咕](war-report/2017/le-shan-zhen-bao-jue-dui-bu-gu-gu-gu.md)
+  * [连夜奔袭一百公里——站在巨人的肩膀上刷MUs](war-report/2017/lian-ye-ben-xi-yi-bai-gong-li-zhan-zai-ju-ren-de-jian-bang-shang-shua-mus.md)
+  * [连肝 30 个小时的 MD 是什么样的体验](war-report/2017/lian-gan-30-ge-xiao-shi-de-md-shi-shen-me-yang-de-ti-yan.md)
 
 ## 加入我们 <a id="join-us"></a>
 
