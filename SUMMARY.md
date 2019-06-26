@@ -31,10 +31,10 @@
   * [听说，FS流行盖场了？](war-report/2016/ting-shuo-fs-liu-hang-gai-chang-le.md)
   * [夜色成都 To 早安成都——记一次通宵肝任务的经历](war-report/2016/ye-se-cheng-du-to-zao-an-cheng-du-ji-yi-ci-tong-xiao-gan-ren-wu-de-jing-li.md)
 
-## 资料
+## 资料 <a id="data"></a>
 
-* [BioCard](zi-liao/biocard.md)
-* [教程资料](zi-liao/jiao-cheng-zi-liao.md)
+* [BioCard](data/biocard.md)
+* [教程资料](data/jiao-cheng-zi-liao.md)
 
 ## 加入我们 <a id="join-us"></a>
 
