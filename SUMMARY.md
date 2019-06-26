@@ -2,6 +2,7 @@
 
 * [施工中](README.md)
 * [新手教程](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/basic_training/initial_briefing.html)
+* [成都夏季IFS注意事项](cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
 
 ## Join Us
 
