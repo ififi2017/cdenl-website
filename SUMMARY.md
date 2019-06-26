@@ -34,6 +34,7 @@
 ## 资料
 
 * [BioCard](zi-liao/biocard.md)
+* [教程资料](zi-liao/jiao-cheng-zi-liao.md)
 
 ## 加入我们 <a id="join-us"></a>
 
