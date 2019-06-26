@@ -18,6 +18,9 @@
   * [乐山针包绝对不咕咕咕](war-report/2017/le-shan-zhen-bao-jue-dui-bu-gu-gu-gu.md)
   * [连夜奔袭一百公里——站在巨人的肩膀上刷MUs](war-report/2017/lian-ye-ben-xi-yi-bai-gong-li-zhan-zai-ju-ren-de-jian-bang-shang-shua-mus.md)
   * [连肝 30 个小时的 MD 是什么样的体验](war-report/2017/lian-gan-30-ge-xiao-shi-de-md-shi-shen-me-yang-de-ti-yan.md)
+  * [你们这些黑牌菊苣哦](war-report/2017/ni-men-zhe-xie-hei-pai-ju-ju-e.md)
+  * [20MU萌新黑牌记](war-report/2017/20mu-meng-xin-hei-pai-ji.md)
+  * [麻麻叫我拿黑牌](war-report/2017/ma-ma-jiao-wo-na-hei-pai.md)
 
 ## 加入我们 <a id="join-us"></a>
 
