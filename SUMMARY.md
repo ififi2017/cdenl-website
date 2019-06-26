@@ -1,9 +1,12 @@
 # Table of contents
 
-* [施工中](README.md)
-* [成都夏季IFS注意事项](cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
+* [首页](README.md)
 
-## Join Us
+## 文章
+
+* [成都夏季IFS注意事项](wen-zhang/cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
+
+## 加入我们 <a id="join-us"></a>
 
 * [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=ARu1wv3EzCgR9Zax3UdRXA2z7AaXiQ-V&authKey=csKwYL8V1iw7nqqjdvkeBL74Ds0uW9myaXNqGJgbGA%2Btj01lmvISTQ%3D%3D)
 * [Telegram](https://t.me/IngressChengduChongqing)
