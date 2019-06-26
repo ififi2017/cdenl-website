@@ -12,5 +12,5 @@
 
 * [Ingress](https://ingress.com/)
 * [Niantic](https://nianticlabs.com/)
-* [Intel map](https://intel.ingress.com/)
+* [Intel Map](https://intel.ingress.com/)
 
