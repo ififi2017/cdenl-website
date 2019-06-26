@@ -8,4 +8,4 @@
 
 ![](.gitbook/assets/qq-tu-pian-20190626105000.jpg)
 
-<font color=red>内容</font> 
+<font color=#0099ff size=7 face="黑体">内容</font> 
