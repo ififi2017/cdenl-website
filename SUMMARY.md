@@ -23,7 +23,13 @@
   * [20MU萌新黑牌记](war-report/2017/20mu-meng-xin-hei-pai-ji.md)
   * [麻麻叫我拿黑牌](war-report/2017/ma-ma-jiao-wo-na-hei-pai.md)
 * [2016](war-report/2016/README.md)
-  * [Untitled](war-report/2016/9.9.md)
+  * [9.9帮扶萌新脱贫拿牌计划 一期工程](war-report/2016/9.9.md)
+  * [啊，好想扎针包](war-report/2016/a-hao-xiang-zha-zhen-bao.md)
+  * [先驱者菊花行动](war-report/2016/xian-qu-zhe-ju-hua-hang-dong.md)
+  * [西环行动](war-report/2016/xi-huan-hang-dong.md)
+  * [川渝端午联合行动--粽子计划](war-report/2016/chuan-yu-duan-wu-lian-he-hang-dong-zong-zi-ji-hua.md)
+  * [听说，FS流行盖场了？](war-report/2016/ting-shuo-fs-liu-hang-gai-chang-le.md)
+  * [夜色成都 To 早安成都——记一次通宵肝任务的经历](war-report/2016/ye-se-cheng-du-to-zao-an-cheng-du-ji-yi-ci-tong-xiao-gan-ren-wu-de-jing-li.md)
 
 ## 加入我们 <a id="join-us"></a>
 
