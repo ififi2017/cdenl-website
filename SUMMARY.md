@@ -5,7 +5,6 @@
 ## 文章
 
 * [成都夏季IFS注意事项](wen-zhang/cheng-du-xia-ji-ifs-zhu-yi-shi-xiang.md)
-* [Ingress 护照预售开始](wen-zhang/untitled.md)
 
 ## 战报
 
