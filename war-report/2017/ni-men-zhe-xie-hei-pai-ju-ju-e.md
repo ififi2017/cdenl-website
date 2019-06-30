@@ -50,7 +50,7 @@ description: 原创： ZtwoM  狂野西部绿军  2017-01-18
 
 二萌也提前一天买了去映秀的车票。（当然去映秀肯定有小心思，一没去过，二有PO啊！作为一个优秀的Agent怎么能放弃UPC）
 
-![](../../.gitbook/assets/pic_006%20%282%29.jpg)
+![](../../.gitbook/assets/pic_006%20%284%29.jpg)
 
 ## 行动当天
 
@@ -116,7 +116,7 @@ Intel兼总指挥总策划：BelethBathin（BB说：都是ZtwoM策划的。）
 
 ![](https://i.loli.net/2019/06/30/5d18d631d6d0781080.jpg)
 
-![&#x6240;&#x4EE5;&#x8BF4;&#xFF0C;&#x8BF4;&#x597D;&#x7684;&#x722C;&#x5C71;&#x5462;&#xFF1F;](../../.gitbook/assets/pic_016.jpg)
+![&#x6240;&#x4EE5;&#x8BF4;&#xFF0C;&#x8BF4;&#x597D;&#x7684;&#x722C;&#x5C71;&#x5462;&#xFF1F;](../../.gitbook/assets/pic_016%20%281%29.jpg)
 
 ![&#x6240;&#x4EE5;&#x8BF4;&#xFF0C;&#x8BF4;&#x597D;&#x7684;&#x884C;&#x52A8;&#x6CE8;&#x610F;&#x5462;&#xFF1F;@wChenX](https://i.loli.net/2019/06/30/5d18d6323b2dd47960.jpg)
 

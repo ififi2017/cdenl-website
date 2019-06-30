@@ -25,7 +25,6 @@
 * [2016](war-report/2016/README.md)
   * [9.9帮扶萌新脱贫拿牌计划 一期工程](war-report/2016/9.9.md)
   * [啊，好想扎针包](war-report/2016/a-hao-xiang-zha-zhen-bao.md)
-  * [先驱者菊花行动](war-report/2016/xian-qu-zhe-ju-hua-hang-dong.md)
   * [西环行动](war-report/2016/xi-huan-hang-dong.md)
   * [川渝端午联合行动--粽子计划](war-report/2016/chuan-yu-duan-wu-lian-he-hang-dong-zong-zi-ji-hua.md)
   * [听说，FS流行盖场了？](war-report/2016/ting-shuo-fs-liu-hang-gai-chang-le.md)

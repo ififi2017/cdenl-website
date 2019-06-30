@@ -1,5 +1,5 @@
 ---
-description: 原创： DetJoker  狂野西部绿军  2016-06-2
+description: 原创： DetJoker  狂野西部绿军  2016-06-21
 ---
 
 # 西环行动
@@ -10,11 +10,14 @@ description: 原创： DetJoker  狂野西部绿军  2016-06-2
 
 旋转多重规划：@cdecl在熬夜赶规划,分为三条线路，选定每个po需要的钥匙，而且为了安全都是选定的大路上的po。后面又熬夜赶行动网页，以便行动能顺利进行（所以网页密码是打死DetJoker是什么鬼==）
 
+![](../../.gitbook/assets/pic_001%20%283%29.jpg)
+
 摸key：噫~由于每个po都准备了双份的key，所以摸了整整两天~
 
 行动当天：各种预计有暴雨~大家还是打算继续肝（然而并没下23333）.大概行动当晚6点出发，8点汇合在玻璃景观附近，大家决定先清障，老蒙@40906861临时决定要跟我们一起出来玩，刷刷刷AP。@GhostPioneer和@cdecl把正在学校里连多重的冷冷@Colderplay坑来清障，都来到一个po集合，这时候@Colderplay发现大家都骑车，没关系冷冷腿长（冷冷：喵喵喵？？？.jpg
 
-  
+![](../../.gitbook/assets/pic_002%20%284%29.jpg)
+
 老司机飙车中~
 
 行动开始：10点清障完成，发现@luxijarod在炸炸炸连连连。大家决定先等她回家再行动。可以先次饭了233.大概11点，各方向就位。却发现@0x0023在从一个顶点连link。大家决定再等下。11过了，终于开始行动。
@@ -27,11 +30,17 @@ description: 原创： DetJoker  狂野西部绿军  2016-06-2
 
 PS：还有对单身狗暴击的@cdecl和 @ecdeo （认真观察下面的对话）噫~这碗狗粮
 
+![](../../.gitbook/assets/pic_003.jpeg)
+
 行动结束：于凌晨2点结束，历时大概三小时
+
+![](../../.gitbook/assets/pic_004.gif)
 
  啊。总结一下。14层，收获的mu大约为：453000
 
 恭喜@GhostPioneer获得第九块mu黑牌（羡慕.jpg）
+
+![](../../.gitbook/assets/pic_005%20%281%29.jpg)
 
 规划：@DetJoker、@cdecl 、@hmarks
 
@@ -43,14 +52,19 @@ link：@DetJoker、@cdecl、@hmarks、@GhostPioneer
 
 intel：@DuskPiper、@edeco
 
-PS：@GhostPioneer被我坑惨了（由于车是我借的，有点问题，刚开始连就掉下来一个脚踏板。）这条线前期距离很短，后面就坑了。摸摸头  
+PS：@GhostPioneer被我坑惨了（由于车是我借的，有点问题，刚开始连就掉下来一个脚踏板。）这条线前期距离很短，后面就坑了。摸摸头
 
+![](../../.gitbook/assets/pic_006.jpg)
 
-PPS：盖完回家后路遇一家医院。嗯  
+PPS：盖完回家后路遇一家医院。嗯
 
+![](../../.gitbook/assets/pic_007%20%284%29.jpg)
 
 PPPS：由于行动前一天@cdecl的手机掉了，于是默默成为背后commander
 
-  
+![](../../.gitbook/assets/pic_008%20%282%29.jpg)
+
 PPPPS：@sinoyster晚上睡不着一直连连连的岳父（在上边的动图右下角（我知道你们看不到
+
+![](../../.gitbook/assets/pic_009%20%281%29.gif)
 

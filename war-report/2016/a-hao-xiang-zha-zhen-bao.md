@@ -6,7 +6,7 @@ description: 原创： Colderplay  狂野西部绿军  2016-07-14
 
 道理我都懂，还是先上图：
 
-![](../../.gitbook/assets/pic_001.gif)
+![](../../.gitbook/assets/pic_001%20%282%29.gif)
 
 ![](../../.gitbook/assets/pic_002%20%282%29.jpg)
 
@@ -26,7 +26,7 @@ description: 原创： Colderplay  狂野西部绿军  2016-07-14
 
 另一个比较恼人的问题是，成都这一周都在下雨，而这雨一直到了周六早晨还在哗哗的下着，这时@Colderplay搜索了下天气预报
 
-![](../../.gitbook/assets/pic_004%20%283%29.jpg)
+![](../../.gitbook/assets/pic_004%20%285%29.jpg)
 
 嗯。。可以，很强势
 
@@ -36,15 +36,15 @@ description: 原创： Colderplay  狂野西部绿军  2016-07-14
 
 2:27，随着中心po被毒绿，针包正式扎起。@Aria66很快地便建立起了第一根link，获得了冠军~
 
-![](../../.gitbook/assets/pic_005%20%283%29.jpg)
+![](../../.gitbook/assets/pic_005%20%286%29.jpg)
 
 在计划中，中心po周边连完的就回去防守可能到来的蓝军，然而一小时过去了也没有蓝军前来，@tudoulyn表示已经吃起了瓜
 
-![](../../.gitbook/assets/pic_006%20%283%29.jpg)
+![](../../.gitbook/assets/pic_006%20%285%29.jpg)
 
 这时候，intel组发现有一名蓝军@fewas沿着天府广场锦江边一路来到了四川大学望江校区南门，几位靠近中心的agent随时做好了肉防的准备，然而
 
-![](../../.gitbook/assets/pic_007%20%281%29.jpg)
+![](../../.gitbook/assets/pic_007%20%283%29.jpg)
 
 ![](../../.gitbook/assets/pic_008%20%281%29.jpg)
 
@@ -56,13 +56,13 @@ description: 原创： Colderplay  狂野西部绿军  2016-07-14
 
 众人：好啊！
 
-![](../../.gitbook/assets/pic_010%20%282%29.jpg)
+![](../../.gitbook/assets/pic_010%20%284%29.jpg)
 
 @Colderplay：那要不然就link in 666条吧！
 
 众人：好啊！
 
-![](../../.gitbook/assets/640%20%281%29.webp)
+![](../../.gitbook/assets/640%20%283%29.webp)
 
 @Colderplay：你们随便玩吧……
 
