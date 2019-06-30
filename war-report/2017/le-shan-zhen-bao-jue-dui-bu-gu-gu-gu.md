@@ -4,9 +4,9 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 # 乐山针包绝对不咕咕咕
 
->前言
+> 前言
 >
->乐山，著名的乐山大佛所在地。此处的XM水平也随着大佛的存在而活跃，乐山绿军的日常就是cap→link→cf→等风干…… 在5.28成都MD之后，一个绿色的被子盖在了乐山之上。从此乐山陷入了绿色的怀抱，沉寂…..
+> 乐山，著名的乐山大佛所在地。此处的XM水平也随着大佛的存在而活跃，乐山绿军的日常就是cap→link→cf→等风干…… 在5.28成都MD之后，一个绿色的被子盖在了乐山之上。从此乐山陷入了绿色的怀抱，沉寂…..
 
 ![](https://i.loli.net/2019/06/30/5d18ce158342f81310.jpg)
 
@@ -26,9 +26,9 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce15a794843345.jpg)
 
-![此法，每次2小时，每天2次。](https://i.loli.net/2019/06/30/5d18ce159608b47285.jpg)
+![&#x6B64;&#x6CD5;&#xFF0C;&#x6BCF;&#x6B21;2&#x5C0F;&#x65F6;&#xFF0C;&#x6BCF;&#x5929;2&#x6B21;&#x3002;](https://i.loli.net/2019/06/30/5d18ce159608b47285.jpg)
 
-![摸key摸到升级](https://i.loli.net/2019/06/30/5d18ce15f109e37270.jpg)
+![&#x6478;key&#x6478;&#x5230;&#x5347;&#x7EA7;](https://i.loli.net/2019/06/30/5d18ce15f109e37270.jpg)
 
 开始摸key的两天后，久无人烟的乐山开始热闹起来。
 
@@ -38,7 +38,7 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce15df12b40384.jpg)
 
-7月27日，上午到成都 @Barbellchyan取到若干key。      
+7月27日，上午到成都 @Barbellchyan取到若干key。
 
 7月27日，下午送key到峨眉@DmwCy 处。
 
@@ -74,7 +74,7 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce3f9859f34601.jpg)
 
-感谢各位奇萌军和抵抗军对我们的帮助。  
+感谢各位奇萌军和抵抗军对我们的帮助。
 
 最后定在5号早上 @elevzer 和 @WallNutttttts 开始行动。
 
@@ -86,7 +86,7 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce3fa3e1f99458.jpg)
 
-06时42分  沙湾除了几个封闭点和景区连完，此时文心岛link数76。
+06时42分 沙湾除了几个封闭点和景区连完，此时文心岛link数76。
 
 06时51分 @elevzer出门。
 
@@ -94,7 +94,7 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce400666365627.jpg)
 
-08时02分 @WallNutttttts拿到去峨眉的车票。  
+08时02分 @WallNutttttts拿到去峨眉的车票。
 
 ![](https://i.loli.net/2019/06/30/5d18ce3fd7d1742028.jpg)
 
@@ -112,7 +112,7 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce3fe52ef32441.jpg)
 
-![（部分缺失）](https://i.loli.net/2019/06/30/5d18ce3fef49467208.jpg)
+![&#xFF08;&#x90E8;&#x5206;&#x7F3A;&#x5931;&#xFF09;](https://i.loli.net/2019/06/30/5d18ce3fef49467208.jpg)
 
 18时16分 乐山针包活动结束，文心岛总射入241根。
 
@@ -122,13 +122,13 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce3fb62fa33489.jpg)
 
-![（假装有GIF，时间太久录的达到8个G，不知如何处理，就当此处有gif吧）](https://i.loli.net/2019/06/30/5d18ce3fac90432731.jpg)
+![&#xFF08;&#x5047;&#x88C5;&#x6709;GIF&#xFF0C;&#x65F6;&#x95F4;&#x592A;&#x4E45;&#x5F55;&#x7684;&#x8FBE;&#x5230;8&#x4E2A;G&#xFF0C;&#x4E0D;&#x77E5;&#x5982;&#x4F55;&#x5904;&#x7406;&#xFF0C;&#x5C31;&#x5F53;&#x6B64;&#x5904;&#x6709;gif&#x5427;&#xFF09;](https://i.loli.net/2019/06/30/5d18ce3fac90432731.jpg)
 
 ## **后记：**
 
 感谢在准备阶段给与建议和帮助的成绿dalao @Barbellchyan ，并且在那里拿到了重要的几把key，2\*softbank+2\*蓝绿毒，和一个红桶。
 
-感谢 @Myster0  @Kamiki 没有在峨眉上做link cf。
+感谢 @Myster0 @Kamiki 没有在峨眉上做link cf。
 
 感谢@Carbveen 对我们做针包的包容。
 
@@ -136,11 +136,11 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 ![](https://i.loli.net/2019/06/30/5d18ce49dd40e29801.jpg)
 
-抱歉….好像拿错了      
+抱歉….好像拿错了
 
 ![](https://i.loli.net/2019/06/30/5d18ce49ecd9f86499.jpg)
 
-好像。。。这回对了     
+好像。。。这回对了
 
 不管了，乐山的旗是这样的
 
@@ -148,12 +148,11 @@ description: 原创： WallNutttttts  狂野西部绿军  2017-08-12
 
 Intel： @MegamanChoi
 
-策划组:@elevzer       @WallNutttttts
+策划组:@elevzer @WallNutttttts
 
-执行组:@elevzer       @WallNutttttts
+执行组:@elevzer @WallNutttttts
 
-全程OB组:@DmwCy  @MegamanChoi
+全程OB组:@DmwCy @MegamanChoi
 
-![苹果用户专用打赏通道](https://i.loli.net/2019/06/30/5d18ce49cdb5e61421.jpg)
-
+![&#x82F9;&#x679C;&#x7528;&#x6237;&#x4E13;&#x7528;&#x6253;&#x8D4F;&#x901A;&#x9053;](https://i.loli.net/2019/06/30/5d18ce49cdb5e61421.jpg)
 
