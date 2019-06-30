@@ -50,7 +50,7 @@ description: 原创： ZtwoM  狂野西部绿军  2017-01-18
 
 二萌也提前一天买了去映秀的车票。（当然去映秀肯定有小心思，一没去过，二有PO啊！作为一个优秀的Agent怎么能放弃UPC）
 
-![](../../.gitbook/assets/pic_006.jpg)
+![](../../.gitbook/assets/pic_006%20%282%29.jpg)
 
 ## 行动当天
 
@@ -88,7 +88,7 @@ description: 原创： ZtwoM  狂野西部绿军  2017-01-18
 
 饺子在二萌加成下出了红桶！
 
-![](../../.gitbook/assets/pic_011.jpg)
+![](../../.gitbook/assets/pic_011%20%282%29.jpg)
 
 然而二萌当天什么VR也没有摸出，真是好气啊！
 
