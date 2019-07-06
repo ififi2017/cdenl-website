@@ -4,10 +4,10 @@
 
 ## 公告 <a id="announcement"></a>
 
-* [成都2019七月IFS圆满结束](announcement/cheng-du-2019-qi-yue-ifs-yuan-man-jie-shu.md)
-* [历史公告](announcement/li-shi-gong-gao/README.md)
-  * [成都2019七月IFS正式开始报名啦！](announcement/li-shi-gong-gao/2019-6-27.md)
-  * [成都夏季IFS注意事项](announcement/li-shi-gong-gao/2019-6-27-1.md)
+* [成都2019七月IFS圆满结束](announcement/2019-7-6.md)
+* [历史公告](announcement/history/README.md)
+  * [成都2019七月IFS正式开始报名啦！](announcement/history/2019-6-27.md)
+  * [成都夏季IFS注意事项](announcement/history/2019-6-27-1.md)
 
 ## 战报 <a id="war-report"></a>
 
