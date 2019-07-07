@@ -36,6 +36,7 @@
 
 * [BioCard](data/biocard.md)
 * [教程资料](data/tutorial-data.md)
+* [实用工具](data/tool.md)
 
 ## 加入我们 <a id="join-us"></a>
 
