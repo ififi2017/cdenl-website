@@ -4,7 +4,7 @@
 
 ## 公告 <a id="announcement"></a>
 
-* [成都2019八月IFS正式开始报名啦！](announcement/cheng-du-2019-ba-yue-ifs-zheng-shi-kai-shi-bao-ming-la.md)
+* [成都2019八月IFS正式开始报名啦！](announcement/2019-7-28.md)
 * [成都2019七月IFS圆满结束](announcement/2019-7-6.md)
 * [历史公告](announcement/history/README.md)
   * [成都2019七月IFS正式开始报名啦！](announcement/history/2019-6-27.md)
