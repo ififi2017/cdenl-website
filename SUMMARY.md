@@ -13,6 +13,7 @@
 ## 战报 <a id="war-report"></a>
 
 * [2019](war-report/2019/README.md)
+  * [【成都】7.27釜山充电小记](war-report/2019/2019-8-2.md)
   * [震惊！成都IFS惊现女装大佬](war-report/2019/2019-7-13.md)
 * [2018](war-report/2018/README.md)
   * [宜绿的艰难起八之旅](war-report/2018/2018-12-20.md)
