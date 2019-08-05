@@ -8,6 +8,10 @@ description: Ingress 成都 绿军 泛AS14-LIMA-07区域
 
 ![Chengdu Enlightened Logo](.gitbook/assets/img_0353.JPG)
 
+## 最新文章
+
+{% page-ref page="war-report/2019/2019-8-4.md" %}
+
 ## 欢迎关注我们的微信公众号
 
 ![&#x5FAE;&#x4FE1;&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x72C2;&#x91CE;&#x897F;&#x90E8;&#x7EFF;&#x519B;](.gitbook/assets/1561565625.png)
