@@ -12,11 +12,11 @@ description: Ingress 成都 绿军 泛AS14-LIMA-07区域
 
 {% page-ref page="war-report/2019/2019-8-4.md" %}
 
-## [欢迎关注我们的微信公众号](http://weixin.qq.com/r/aTkbAzbE6WuWrXJg92x7)
+## 欢迎关注我们的微信公众号
 
 ![&#x5FAE;&#x4FE1;&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x72C2;&#x91CE;&#x897F;&#x90E8;&#x7EFF;&#x519B;](.gitbook/assets/1561565625.png)
 
-## \*\*\*\*[**扫码加入QQ群，老玩家**~~**24小时在线**~~**一对一指导**](https://qm.qq.com/cgi-bin/qm/qr?k=ARu1wv3EzCgR9Zax3UdRXA2z7AaXiQ-V&authKey=csKwYL8V1iw7nqqjdvkeBL74Ds0uW9myaXNqGJgbGA%2Btj01lmvISTQ%3D%3D)\*\*\*\*
+## **扫码加入QQ群，老玩家**~~**24小时在线**~~**一对一指导**
 
 ![](.gitbook/assets/qq-tu-pian-20190626105000.jpg)
 
