@@ -4,7 +4,7 @@ description: AS14-LIMA-07
 
 # 成都 · 启蒙军 - Ingress
 
-![Chengdu Enlightened LOGO](.gitbook/assets/img_0353.JPG)
+![Chengdu Enlightened LOGO](https://i.loli.net/2019/08/06/xlHfiypWE5ILw6m.png)
 
 ![&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x72C2;&#x91CE;&#x897F;&#x90E8;&#x7EFF;&#x519B;](.gitbook/assets/1561565625.png)
 
