@@ -4,9 +4,10 @@
 
 ## 公告 <a id="announcement"></a>
 
+* [成都2019十一月IFS圆满结束](announcement/2019-11-2.md)
 * [成都2019十一月IFS正式开始报名啦！](announcement/2019-10-28.md)
-* [成都2019八月IFS圆满结束](announcement/2019-8-4.md)
 * [历史公告](announcement/history/README.md)
+  * [成都2019八月IFS圆满结束](announcement/history/2019-8-4.md)
   * [成都2019八月IFS正式开始报名啦！](announcement/history/2019-7-28.md)
   * [成都2019七月IFS圆满结束](announcement/history/2019-7-6.md)
   * [成都2019七月IFS正式开始报名啦！](announcement/history/2019-6-27.md)
