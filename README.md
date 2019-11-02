@@ -10,7 +10,7 @@ description: Ingress 成都 绿军 泛AS14-LIMA-07区域
 
 ## 最新文章
 
-{% page-ref page="war-report/2019/2019-8-4.md" %}
+{% page-ref page="announcement/2019-11-2.md" %}
 
 ## 欢迎关注我们的微信公众号
 
